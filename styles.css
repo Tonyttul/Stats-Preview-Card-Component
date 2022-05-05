@@ -17,7 +17,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    margin-top: 95px;
+    margin-top: 93px;
 }
 .top {
     display: none;
